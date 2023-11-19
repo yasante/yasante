@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yaw Asante 😊
 
 <!--
 **yasante/yasante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Yaw Asante
 ---
 I am Yaw Asante, a First Class Honors graduate in Economics from KNUST with a passion for  <br>economics, programming, and community development. <br>
 My experiences include leading several bootcamps on Python for Data Science, and impactful  <br> roles as President and Program Coordinator at the Nectar of Hope for Children Foundation. <br>As a Google Local Guide, peer tutor, and advocate for accurate information, I am dedicated to <br>continuous learning and making a positive impact in both the digital and academic spheres.  <br>Looking forward, I aim to explore new avenues to secure a role as a social scientist and contribute to the <br>intersection of technology and economics. <br>
