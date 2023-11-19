@@ -1,19 +1,4 @@
 ### Yaw Asante 😊
-
-<!--
-**yasante/yasante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---
 I am Yaw Asante, a First Class Honors graduate in Economics from KNUST with a passion for  <br>economics, programming, and community development. <br>
 My experiences include leading several bootcamps on Python for Data Science, and impactful  <br> roles as President and Program Coordinator at the Nectar of Hope for Children Foundation. <br>As a Google Local Guide, peer tutor, and advocate for accurate information, I am dedicated to <br>continuous learning and making a positive impact in both the digital and academic spheres.  <br>Looking forward, I aim to explore new avenues to secure a role as a social scientist and contribute to the <br>intersection of technology and economics. <br>
@@ -28,15 +13,20 @@ My experiences include leading several bootcamps on Python for Data Science, and
 
 # 💻 Tech Stack:
 ![Stata](https://img.shields.io/badge/stata-%23CC342D.svg?style=for-the-badge&logo=stata&logoColor=white) 
-![Git](https://img.shields.io/badge/git-3670A0?style=for-the-badge&logo=git&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/R-3670A0?style=for-the-badge&logo=R&logoColor=ffdd54) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=black) 
+![R](https://img.shields.io/badge/R-b2beb5?style=for-the-badge&logo=R&logoColor=#1F65CC)
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)!
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Latex](https://img.shields.io/badge/latex-black.svg?style=for-the-badge&logo=latex&logoColor=7bd5f5) 
+![Tableau](https://img.shields.io/badge/tableau-orange.svg?style=for-the-badge&logo=tableau&logoColor=7bd5f5) 
+![Eviews](https://img.shields.io/badge/eviews-green.svg?style=for-the-badge&logo=eviews&logoColor=#00C7B7) 
+![PowerBI](https://img.shields.io/badge/powerbi-yellow.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-D8D7D6.svg?style=for-the-badge&logo=Markdown&logoColor=black) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yasante&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
