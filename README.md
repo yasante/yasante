@@ -8,8 +8,7 @@ My experiences include leading several bootcamps on Python for Data Science, and
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yawasante) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasante7) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22892857/yasante7) 
-![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=black&labelColor=white&link=https%3A%2F%2Fmedium.com%2F%40yasante7)
-
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=black&labelColor=white)](https://medium.com/@yasante7)
 
 # 💻 Tech Stack:
 ![Stata](https://img.shields.io/badge/stata-%23CC342D.svg?style=for-the-badge&logo=stata&logoColor=white) 
