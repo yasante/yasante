@@ -26,7 +26,7 @@ My experiences include leading several bootcamps on Python for Data Science, and
 ![Eviews](https://img.shields.io/badge/eviews-green.svg?style=for-the-badge&logo=eviews&logoColor=#00C7B7) 
 ![PowerBI](https://img.shields.io/badge/powerbi-yellow.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-D8D7D6.svg?style=for-the-badge&logo=Markdown&logoColor=black) 
-![Hadoop](https://img.shields.io/badge/hadoop-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Hadoop](https://img.shields.io/badge/hadoop-%23430098.svg?style=for-the-badge&logo=hadoop&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yasante&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
